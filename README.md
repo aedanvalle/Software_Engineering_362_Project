@@ -15,5 +15,5 @@ OpenWeather software for MacOS
     again to enter another city.  It needs to be fixed to handle more iterations within the same 
     program.  It's a work in progress and might be fixed sometime in the future.
     
-NOTE: please see the picture of the resulting output to display what the result is supposed to look like.  
+NOTE: please see the picture (Results.png) of the resulting output to display what the result is supposed to look like.  
     
