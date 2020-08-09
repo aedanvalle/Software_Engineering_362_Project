@@ -13,5 +13,7 @@ OpenWeather software for MacOS
 
 5) After retriving the single day forecast or 5 day, please exit the program and start it up 
     again to enter another city.  It needs to be fixed to handle more iterations within the same 
-    program.  It's a work in progress and might be fixed sometime in the future.  
+    program.  It's a work in progress and might be fixed sometime in the future.
+    
+NOTE: please see the picture of the resulting output to display what the result is supposed to look like.  
     
