@@ -3,7 +3,8 @@ OpenWeather software for MacOS
 
 1) Download project, unzip and place on desktop.  
 
-2) Go into folder, now right click all executables and let them run once (Open them when asked).  
+2) Go into folder, Please double click and extract all zip'd folders within the master,
+    (right click [cmd + left-click] 362_project last) right click the other 2 executables first,
     This is how MacOS allows all to run when invoked at their respective times.  
     
 3) The main program that manages the other 2 is "362_project", so right click and open it first
