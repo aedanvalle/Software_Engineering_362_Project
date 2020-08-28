@@ -1,6 +1,10 @@
 # Software_Engineering_362_Project
 OpenWeather software for MacOS
 
+This software is broken down into 3 executables.  The main program and two subprograms.  
+The 2 sub-programs are responsible for retrieving the weather for any city in the U.S.A.
+and then displays it to the screen.  
+
 1) Download project, unzip and place on desktop.  
 
 2) Go into folder, Please double click and extract all zip'd folders within the master,
